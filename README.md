@@ -6,6 +6,7 @@
 ### 用法:    
     开启服务端的守护进程:
     python bin/SpiderServe.py start
-    开启客户端：
+    开启客户端:
+    python bin/SpiderClient.py
 　　python bin/SpiderClient.py  
  
