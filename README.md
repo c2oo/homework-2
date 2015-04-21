@@ -4,9 +4,11 @@
 　客户端有超时,网络断点重连等功能，图片保存在static目录下
   
 ### 用法:    
+
     开启服务端的守护进程:
     python bin/SpiderServe.py start
+    
     开启客户端:
     python bin/SpiderClient.py
-　　python bin/SpiderClient.py  
+    
  
